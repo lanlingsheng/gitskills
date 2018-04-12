@@ -25,7 +25,7 @@ SECRET_KEY = '*wx$ll4b76^hfaf3)la7!jw2lyoou=e*)vh_v-4nhgcp5&na67'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','.zhongminyong.tech']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.rubic.win']
 
 
 # Application definition
